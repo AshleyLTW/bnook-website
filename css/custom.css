@@ -1,3 +1,10 @@
+/* About */
+.bnook-logo {
+	width: 30%;
+	height: 30%;
+	margin: auto;
+}
+
 
 /* Subscribe */
 #sub-box {
@@ -24,6 +31,7 @@
 .name {
 	font-weight: bold;
 	margin-top: 5%;
+	text-align: center;
 }
 
 .profile-desc {
